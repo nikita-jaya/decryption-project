@@ -2,6 +2,8 @@
 
 *Completed as a final project for Carnegie Mellon University's 36650 Graduate Statistical Computing course*
 
+*See project description below:*
+
 Let $c_1$, $c_2$, . . . , $c_n$ be a sequence of $n$ encrypted characters, and let $b(c, c′)$ be the frequency of character
 pair($c$, $c′$) in a reference text.
 
