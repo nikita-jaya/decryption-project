@@ -1,0 +1,19 @@
+[project]
+name = "decryption"
+version = "0.0.1"
+dependencies = [
+    "math",
+    "collections",
+    "numpy",
+    "re",
+    "string",
+    "random"
+]
+description = "This package implements Metropolis algorithm for decryption."
+authors = [
+    {name = "Nikita Jayaprakash", email = "njayapra@andrew.cmu.edu"},
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

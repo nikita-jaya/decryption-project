@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: decryption
+Version: 0.0.1
+Summary: This package implements Metropolis algorithm for decryption.
+Author-email: Nikita Jayaprakash <njayapra@andrew.cmu.edu>
+Requires-Dist: math
+Requires-Dist: collections
+Requires-Dist: numpy
+Requires-Dist: re
+Requires-Dist: string
+Requires-Dist: random
